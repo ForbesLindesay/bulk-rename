@@ -1,0 +1,15 @@
+{
+  "name": "bulk-rename",
+  "version": "1.0.0",
+  "description": "simple bulk renaming command line utility",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ForbesLindesay/bulk-rename.git"
+  },
+  "bin": {
+    "bulk-rename": "./bulk-rename"
+  },
+  "dependencies": {
+    "open": "~0.0.2"
+  }
+}
