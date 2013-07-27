@@ -11,5 +11,7 @@
   },
   "dependencies": {
     "open": "~0.0.2"
-  }
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
 }
